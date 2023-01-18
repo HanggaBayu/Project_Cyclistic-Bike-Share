@@ -1,7 +1,8 @@
 # Project_Cyclistic-Bike-Share
+This repository contains files created for a capstone project from the Google Data Analytics Professional Certificate course offered on Coursera.
 
-# <center> Case Study 1 <center>
 # Case Study: How Does a Bike-Share Navigate Speedy Success?
+
 ## Introduction
 Welcome to the Cyclistic bike-share analysis case study! In this case study, you will perform many real-world tasks of a junior
 data analyst. You will work for a fictional company, Cyclistic, and meet different characters and team members. In order to
