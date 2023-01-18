@@ -1,5 +1,5 @@
 # Project_Cyclistic-Bike-Share
-This repository contains files created for a capstone project from the Google Data Analytics Professional Certificate course offered on Coursera.
+This repository contains files created for a capstone project from the Google Data Analytics Professional Certificate course offered on Coursera
 
 # Case Study: How Does a Bike-Share Navigate Speedy Success?
 
